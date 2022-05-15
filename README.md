@@ -28,7 +28,7 @@
 <a href="https://github.com/mfferr/github-readme-activity-graph"><img alt="MFF's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mfferr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
-![Snake animation](https://github.com/DevBatista1/DevBatista1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mfferr/mfferr/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 ## Connect with me:
@@ -39,7 +39,5 @@
   <a href="https://www.linkedin.com//in/marcosfferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <p></p>
 
-
-![snake gif](https://github.com/mfferr/mfferr/blob/output/github-contribution-grid-snake.gif)
 
   </div>
