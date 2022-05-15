@@ -1,16 +1,41 @@
-### Hi there 👋
+<div align="center">
+<img align="center" alt="Mfferr-pic"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/78884264/168404941-b93ee064-efd5-43ba-baa3-3369935a46e7.png?width=676&height=676">
+<img align="right"  alt="Mfferr-pic"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/78884264/168402702-317468ee-1e5a-4308-afe7-953204d36d68.png?width=676&height=676">
+</div>
 
-<!--
-**mfferr/mfferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## My Github Stats
+  <h3 align="left">Languages and Tools:</h3>
+<div style="display: inline_block"><br>
+<img align="center" alt="Mfferr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Mfferr-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Mfferr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Mfferr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Mfferr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Mfferr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Mfferr-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+</div>
+<br>
+<br/>
+  <br/>
+    <a href="https://github.com/mfferr/github-readme-stats"><img alt="MFF Github Stats" src="https://github-readme-stats.vercel.app/api?username=mfferr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mfferr/github-readme-stats"><img alt="MFF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfferr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/mfferr/github-readme-activity-graph"><img alt="MFF's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mfferr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+<br/>
+
+## Connect with me:
+<div>
+<p align="left">
+  <a href="https://instagram.com/marcosf_ferreira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcosf.ferr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com//in/marcosfferreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p></p>
+</div>
+
+![snake gif](https://github.com/mfferr/mfferr/blob/output/github-contribution-grid-snake.gif)
