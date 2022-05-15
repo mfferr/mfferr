@@ -19,8 +19,6 @@
 <img align="center" alt="Mfferr-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="center" alt="Mfferr-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
           
-          
-          
 </div>
 <br>
 <br/>
@@ -28,6 +26,8 @@
     <a href="https://github.com/mfferr/github-readme-stats"><img alt="MFF Github Stats" src="https://github-readme-stats.vercel.app/api?username=mfferr&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/mfferr/github-readme-stats"><img alt="MFF's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfferr&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
+ 
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/mfferr/github-readme-activity-graph"><img alt="MFF's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mfferr&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
