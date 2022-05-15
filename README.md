@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## My Github Stats
+## My GitHub Stats
   <h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
 <img align="center" alt="Mfferr-Js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
