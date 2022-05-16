@@ -36,4 +36,6 @@
   <p></p>
   </div>
   
-  
+  <div>
+      ![snake gif](https://github.com/mfferr/mfferr/blob/output/github-contribution-grid-snake.gif)
+  </div>
