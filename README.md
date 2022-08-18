@@ -1,8 +1,5 @@
 <div align="center">
-<img align="center" alt="Mfferr-pic"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/78884264/168404941-b93ee064-efd5-43ba-baa3-3369935a46e7.png?width=676&height=676">
-<img align="right"  alt="Mfferr-pic"  style="border-radius:50px;" src="https://user-images.githubusercontent.com/78884264/168402702-317468ee-1e5a-4308-afe7-953204d36d68.png?width=676&height=676">
-</div>
-<br>
+
 
 ## My GitHub Stats
  <h3 align="left">Languages and Tools:</h3>
